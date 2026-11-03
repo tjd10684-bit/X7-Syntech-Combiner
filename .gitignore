@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+# Earlier incomplete CNC templates are retained locally but must not be used.
+/O9000
+/O9001
+/O9002
+/O9003
+/O9004
+/O9005
+/O9999
+
+# Production programs and generated output must remain local.
+*.nc
