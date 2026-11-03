@@ -1,5 +1,8 @@
 # Offline Syntec program combiner
 
+For project history, testing context, and development on another machine, see
+[HANDOFF.md](./HANDOFF.md).
+
 **Experimental:** do not run old O9000 through O9005 and O9999 templates
 from an earlier approach. They are incomplete and do not represent the two
 different operation paths in the production programs. They are excluded from
